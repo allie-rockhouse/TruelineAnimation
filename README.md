@@ -20,7 +20,7 @@ A simple floating animation for Trueline.
   Example: 
   
   particles.shape.type refers to the highlighted value inside particles.json;
-
+```
   "particles": {
     "number": {
       ...
@@ -36,7 +36,7 @@ A simple floating animation for Trueline.
       },
       ...
     }
-
+```
 Changing "type" : "image" to "type" : "circle" would remove the smiley faces and replaces them with circles.  
 
 You can edit the code in real time on this website: https://codepen.io/VincentGarreau/pen/bGxvQd
