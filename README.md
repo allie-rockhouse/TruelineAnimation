@@ -30,7 +30,7 @@ A simple floating animation for Trueline.
       ...
     },
     "shape": {
-      =="type":== =="image",==
+      "type":"image", <!-- this line--!>
       "stroke": {
         ...
       },
