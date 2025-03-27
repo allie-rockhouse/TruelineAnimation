@@ -1,4 +1,5 @@
- "particles": {
+{
+"particles": {
     "number": {
       "value": 10,
       "density": {
