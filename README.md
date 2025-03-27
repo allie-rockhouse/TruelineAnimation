@@ -7,7 +7,7 @@ A simple floating animation for Trueline.
 ## Instructions 
 
 ### In WordPress
-1. Add the d "particles-js" to the container you want the animation to appear in.
+1. Add the id "particles-js" to the container you want the animation to appear in.
 2. Add this code to the functions.php file: **TBD**
 3. Edit the JSON file (see below) to change the behaviors of the animation.
 
