@@ -37,7 +37,7 @@ A simple floating animation for Trueline.
       ...
     }
 ```
-Changing "type" : "image" to "type" : "circle" would remove the smiley faces and replaces them with circles.  
+Changing "type" : "image" to "type" : "circle" would remove the smiley faces and replace them with circles.  
 
 You can edit the code in real time on this website: https://codepen.io/VincentGarreau/pen/bGxvQd
 Only edit the JSON inside of the JS file.
